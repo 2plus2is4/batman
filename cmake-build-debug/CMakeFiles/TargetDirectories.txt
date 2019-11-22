@@ -1,0 +1,3 @@
+/home/ahmad/CLionProjects/batman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmad/CLionProjects/batman/cmake-build-debug/CMakeFiles/batman.dir
+/home/ahmad/CLionProjects/batman/cmake-build-debug/CMakeFiles/edit_cache.dir
