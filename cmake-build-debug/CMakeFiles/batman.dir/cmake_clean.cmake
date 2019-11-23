@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/batman.dir/main.cpp.o"
-  "batman"
+  "CMakeFiles/batman.dir/main.cpp.obj"
+  "batman.exe"
+  "batman.exe.manifest"
   "batman.pdb"
+  "libbatman.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
